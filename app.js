@@ -22,20 +22,21 @@ function createProfile() {
     yup.textContent = 'Yup';
     yup.addEventListener('click', function (){
         console.log('You like YOLANDA');
-        overall.classList.add('otherclass');
+        container.classList.add('opaque');
     });
     let nope = document.createElement('button');
     nope.textContent = 'Eww, nope';
     nope.addEventListener('click', function (){
         console.log('YOLANDA has been noped');
-       overall.classList.add('opaque');
+       container.classList.add('opaque');
+       block.classList.add('block');
         
     });
     container.appendChild(name);
     container.appendChild(yup);
     container.appendChild(nope);
     let parent = document.querySelector('body');
-    parent.appendChild(next);
+    container.appendChild(next);
     parent.appendChild(container);
 }
 
