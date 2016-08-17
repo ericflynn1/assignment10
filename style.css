@@ -1,0 +1,118 @@
+body {
+    display: block;
+    background-image: url(https://i.vimeocdn.com/video/341527064_1280x720.jpg);
+    color: goldenrod;
+    
+}
+.overall {
+    display: none;
+}
+.block {
+    display: inline-block;
+    width: 10%;
+    margin: 1%;
+    height: 125px;
+
+}
+
+.ein {
+    background-image: url("https://randomuser.me/api/portraits/women/1.jpg");
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.zwei {
+    background-image: url("https://randomuser.me/api/portraits/women/72.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.drei {
+    background-image: url("https://randomuser.me/api/portraits/women/92.jpg");
+    background-repeat: no-repeat;
+}
+
+.vier {
+    background-image: url("https://randomuser.me/api/portraits/women/82.jpg");
+    background-repeat: no-repeat;
+}
+.funf {
+    background-image: url("https://randomuser.me/api/portraits/women/38.jpg");
+    background-repeat: no-repeat;
+}
+.sechs {
+    background-image: url("https://randomuser.me/api/portraits/women/84.jpg");
+    background-repeat: no-repeat;
+}
+
+.sieben {
+    background-image: url("https://randomuser.me/api/portraits/women/85.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.acht {
+    background-image: url("https://randomuser.me/api/portraits/women/40.jpg");
+    background-repeat: no-repeat;
+}
+
+.neun {
+    background-image: url("https://randomuser.me/api/portraits/women/52.jpg");
+    background-repeat: no-repeat;
+}
+.zehn {
+    background-image: url("https://randomuser.me/api/portraits/women/9.jpg");
+    background-repeat: no-repeat;
+}
+.elf {
+    background-image: url("https://randomuser.me/api/portraits/men/1.jpg");
+    background-repeat: no-repeat;
+}
+
+.zwolf {
+    background-image: url("https://randomuser.me/api/portraits/men/90.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.dreizehn {
+    background-image: url("https://randomuser.me/api/portraits/men/22.jpg");
+    background-repeat: no-repeat;
+}
+
+.vierzehn {
+    background-image: url("https://randomuser.me/api/portraits/men/25.jpg");
+    background-repeat: no-repeat;
+}
+.funfzehn {
+    background-image: url("https://randomuser.me/api/portraits/men/42.jpg");
+    background-repeat: no-repeat;
+}
+.sechzehn {
+    background-image: url("https://randomuser.me/api/portraits/men/58.jpg");
+    background-repeat: no-repeat;
+}
+
+.siebzehn {
+    background-image: url("https://randomuser.me/api/portraits/men/3.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.achtzehn {
+    background-image: url("https://randomuser.me/api/portraits/men/2.jpg");
+    background-repeat: no-repeat;
+}
+
+.neunzehn {
+    background-image: url("https://randomuser.me/api/portraits/men/0.jpg");
+    background-repeat: no-repeat;
+}
+.zwanzig {
+    background-image: url("https://randomuser.me/api/portraits/men/26.jpg");
+    background-repeat: no-repeat;
+}
+
+.opaque {
+    opacity: .5;
+}
